@@ -15,7 +15,7 @@ import {
 export default function App() {
   const profile = {
     name: "栫 武蔵",
-    nameEn: "Musashi Kakoi",
+    nameEn: "Takezo Kakoi",
     age: 24,
     birthday: "2001年11月22日",
     origin: "奈良県",
